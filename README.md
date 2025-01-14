@@ -26,16 +26,30 @@
   - **Challenges:** The time length of the download, caused the scan to stop.
   - **Results:** I learned how to send packets to specific ports on a host, using the responses to find vulnerabilities.
     
-- <b> Exploitation of MySQL </b>
+- <b> Exploitation of MySQL Server </b>
 
   - **Objective:** Scan the target machine; to search for vulnerabilities.
   - **Methodology:** I chose the application Virtual Box; which allowed me to download VM files.
   - **Tool:** Metasploit
   - **Challenges:** The time length of the download, caused the scan to stop.
-  - **Results:** Successfully exploited the target MySQL server, extracting personal information using leafpad. 
+  - **Results:** Successfully exploited the target MySQL server, extracting personal information using Leafpad. 
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Target System Scan Report</b>
+
+  - **Objective:** Create a system scan report based on the vulnerability assessment results.
+  - **Methodology:** Created an executive summary, detailing vulnerabilities discovered.
+  - **Tool:** Office 365-Word
+  - **Challenges:** Translating technical to non-technical when describing vulnerabilities.
+  - **Results:** Learned how to create an effective scan report for businesses of all sizes.
+ 
+- <b> Penetration Test Report </b>
+
+  - **Objective:** Create a comprehensive summary of Hotel Dorsey’s penetration result results.
+  - **Methodology:**
+  - **Tool:** Office 365-Word
+  - **Challenges:** The time length of the download, caused the scan to stop.
+  - **Results:** Learned how to create an effective penetration test report. Earned a grade of 95 % 
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -47,10 +61,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
