@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mario! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - <b> Virtual Lab Setup /Vulnerability Scanning </b>
 
@@ -8,18 +8,32 @@
   - **Methodology:** I chose the software Virtual Box, which allowed me to download my VM files
   - **Tool used:** Virtual Box
   - **Challenges:** Experience download speed issues due to server overload.  
-  - **Results:** Successfully utilized Virtual Box to set up a home lab for vulnerability scanning. Earned a grade of 100%
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - **Results:** Successfully utilized Virtual Box to set up a home lab for vulnerability scanning. 
+    
+- <b>Scanning a target machine</b>
+  
+  - **Objective:** Scan the target machine; to search for vulnerabilities.
+  - **Methodology:** I chose the application Virtual Box; which allowed me to download VM files.
+  - **Tool:** OpenVAS
+  - **Challenges:** dealing with false positives/negatives.
+  - **Results:** Successfully scanned a target host for vulnerabilities.
+    
+- <b>Scanning a target machine for open ports</b>
+
+  - **Objective:** Scan the host target device to search for open ports.
+  - **Methodology:** I chose the application Virtual Box; which allowed me to download VM files.
+  - **Tool:** Zenmap
+  - **Challenges:** The time length of the download, caused the scan to stop.
+  - **Results:** I learned how to send packets to specific ports on a host, using the responses to find vulnerabilities.
+    
+- <b> Exploitation of MySQL </b>
+
+  - **Objective:** Scan the target machine; to search for vulnerabilities.
+  - **Methodology:** I chose the application Virtual Box; which allowed me to download VM files.
+  - **Tool:** Metasploit
+  - **Challenges:** The time length of the download, caused the scan to stop.
+  - **Results:** Successfully exploited the target MySQL server, extracting personal information using leafpad. 
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
