@@ -1,9 +1,14 @@
-<h1>Hi, I'm Josh! 
+<h1>Hi, I'm Mario! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Virtual Lab Setup /Vulnerability Scanning </b>
+
+  - **Objective:** Create a virtual lab for vulnerability scanning.(   )
+  - **Methodology:** I chose the software Virtual Box, which allowed me to download my VM files
+  - **Tool used:** Virtual Box
+  - **Challenges:** Experience download speed issues due to server overload.  
+  - **Results:** Successfully utilized Virtual Box to set up a home lab for vulnerability scanning. Earned a grade of 100%
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
