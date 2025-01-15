@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mario! 
 
-<h2>Cybersecurity Projects:</h2>
+<h2>💻Cybersecurity Projects:</h2>
 
 - <b> Virtual Lab Setup /Vulnerability Scanning </b>
 
@@ -50,7 +50,7 @@
   - **Challenges:** The time length of the download, caused the scan to stop.
   - **Results:** Learned how to create an effective penetration test report. Earned a grade of 95 %
 
-<h2> Certificates/Certifications </h2>
+<h2> 📑Certificates/Certifications </h2>
 
   -[CompTIA Security + Certified CE](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:93fb1ac1-2392-48f2-8177-52ed6c55770e)
   
@@ -64,7 +64,7 @@
 - [Cybersecurity in the age of AI](https://www.youtube.com/watch?v=qVET1vD3NtQ)
 - [UMGC-Discover Exciting Careers in Cybersecurity](https://www.youtube.com/watch?v=rPYUUR_IVTc)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🔗 Connect with me:</h2>
 
 
 [<img align="left" alt="Mario Wilson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
