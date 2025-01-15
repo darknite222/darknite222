@@ -48,8 +48,11 @@
   - **Methodology:**
   - **Tool:** Office 365-Word
   - **Challenges:** The time length of the download, caused the scan to stop.
-  - **Results:** Learned how to create an effective penetration test report. Earned a grade of 95 % 
+  - **Results:** Learned how to create an effective penetration test report. Earned a grade of 95 %
 
+<h2> Certifications </h2>
+
+  -CompTia Security + Certified CE
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -57,7 +60,7 @@
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [UMGC-Discover Exciting Careers in Cybersecurity](https://https://www.youtube.com/watch?v=rPYUUR_IVTc)
 
 <h2> 🤳 Connect with me:</h2>
 
