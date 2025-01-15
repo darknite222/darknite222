@@ -50,28 +50,28 @@
   - **Challenges:** The time length of the download, caused the scan to stop.
   - **Results:** Learned how to create an effective penetration test report. Earned a grade of 95 %
 
-<h2> Certifications </h2>
+<h2> Certificates/Certifications </h2>
 
-  -CompTia Security + Certified CE
+  -[CompTIA Security + Certified CE](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:93fb1ac1-2392-48f2-8177-52ed6c55770e)
+  
+  -[Cyber Threat Hunting Certificate](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1ac5de6f-0c26-4c61-a4f1-cbc05e1b5e54)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [UMGC-Discover Exciting Careers in Cybersecurity](https://https://www.youtube.com/watch?v=rPYUUR_IVTc)
+- [Vulnerability Mangement](https://www.youtube.com/watch?v=FrnX28OgiJI&t=9s)
+- [Becoming a Cybersecurity Engineer](https://www.youtube.com/watch?v=LKxLiBgLfIU)
+- [What do cybersecurity project managers do?](https://www.youtube.com/watch?v=cUSjbw1tQNE)
+- [Cybersecurity in the age of AI](https://www.youtube.com/watch?v=qVET1vD3NtQ)
+- [UMGC-Discover Exciting Careers in Cybersecurity](https://www.youtube.com/watch?v=rPYUUR_IVTc)
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mario Wilson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: https://linkedin.com/in/mariowilson2023
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
