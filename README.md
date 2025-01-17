@@ -2,9 +2,9 @@
 
 <h2>💻Cybersecurity Projects:</h2>
 
-- [<b> Virtual Lab Setup /Vulnerability Scanning </b>](README.md)
+- [<b> Virtual Lab Setup /Vulnerability Scanning </b>](https://github.com/darknite222/Home-Lab-Set-up-Vulnerability-Scanning.git)
 
-  - **Objective:** Create a virtual lab for vulnerability scanning.(   )
+  - **Objective:** Create a virtual lab for vulnerability scanning.
   - **Methodology:** I chose the software Virtual Box, which allowed me to download my VM files
   - **Tool used:** Virtual Box
   - **Challenges:** Experience download speed issues due to server overload.  
