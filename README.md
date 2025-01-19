@@ -1,4 +1,7 @@
-<h1>Hi, I'm Mario! 
+<h1>Hi, I'm Mario!
+
+  
+[<b>Cyber Security Engineer/ Vulnerability Analyst</b>](https://github.com/user-attachments/files/18470539/Updated.Resume.2025.1.pdf)
 
 <h2>💻Cybersecurity Projects:</h2>
 
