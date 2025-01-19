@@ -10,7 +10,7 @@
   - **Challenges:** Experience download speed issues due to server overload.  
   - **Results:** Successfully utilized Virtual Box to set up a home lab for vulnerability scanning. 
     
-- <b>Scanning a target machine</b>
+- [<b>Scanning a target machine</b>](https://github.com/darknite222/Scanning-a-Victim-Machine/blob/main/README.md)
   
   - **Objective:** Scan the target machine; to search for vulnerabilities.
   - **Methodology:** I chose the application Virtual Box; which allowed me to download VM files.
