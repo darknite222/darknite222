@@ -38,19 +38,19 @@
   - **Challenges:** Technical obstacles; organizational and communication issues
   - **Results:** Successfully exploited the target MySQL server, extracting personal information using Leafpad. 
 
-- <b>Target System Scan Report</b>
+- <b>Vulnerability Presentation to Mangement</b>
 
-  - **Objective:** Create a system scan report based on the vulnerability assessment results.
-  - **Methodology:** Created an executive summary, detailing vulnerabilities discovered.
-  - **Tool:** Office 365-Word
-  - **Challenges:** Translating technical to non-technical when describing vulnerabilities.
-  - **Results:** Learned how to create an effective scan report for businesses of all sizes.
+  - **Objective:** Create a presentation to management based on the vulnerability assessment results.
+  - **Methodology:** Created a PowerPoint presentation for management, detailing vulnerabilities discovered.
+  - **Tool:** Microsoft Office 365 Suite- PowerPoint
+  - **Challenges:** There are often numerous vulnerabilities to address, but management may not have the tools or knowledge to prioritize them effectively, leading to a fragmented approach.
+  - **Results:** Successfully created an effective PowerPoint presentation to management on behalf of the CEO to address organization security concerns.
  
 - [<b>Penetration Test Report</b>](https://github.com/darknite222/Penetration-Test-Report)
 
   - **Objective:** Create a comprehensive summary of Hotel Dorsey’s penetration result results.
   - **Methodology:** Preparation, defining the scope and rules of engagement, followed by information gathering to map out the target environment.
-  - **Tool:** Microsoft Office 365 suite
+  - **Tool:** Microsoft Office 365 suite- Word
   - **Challenges:** Performing penetration testing, while essential for identifying vulnerabilities and strengthening security, can come with a variety of challenges. These issues can be 
                     technical, procedural, or even interpersonal.
   - **Results:** Learned how to create an effective penetration test report. 
