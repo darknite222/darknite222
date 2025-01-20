@@ -38,7 +38,7 @@
   - **Challenges:** Technical obstacles; organizational and communication issues
   - **Results:** Successfully exploited the target MySQL server, extracting personal information using Leafpad. 
 
-- <b>Vulnerability Presentation to Mangement</b>
+- [<b>Vulnerability Presentation to Mangement</b>](https://github.com/darknite222/Vulnerability-Presentation-to-Management)
 
   - **Objective:** Create a presentation to management based on the vulnerability assessment results.
   - **Methodology:** Created a PowerPoint presentation for management, detailing vulnerabilities discovered.
