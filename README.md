@@ -46,7 +46,7 @@
   - **Challenges:** Translating technical to non-technical when describing vulnerabilities.
   - **Results:** Learned how to create an effective scan report for businesses of all sizes.
  
-- <b> Penetration Test Report </b>
+- [<b>Penetration Test Report</b>](https://github.com/darknite222/Penetration-Test-Report)
 
   - **Objective:** Create a comprehensive summary of Hotel Dorsey’s penetration result results.
   - **Methodology:** Preparation, defining the scope and rules of engagement, followed by information gathering to map out the target environment.
