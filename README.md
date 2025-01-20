@@ -44,7 +44,7 @@
   - **Methodology:** Created a PowerPoint presentation for management, detailing vulnerabilities discovered.
   - **Tool:** Microsoft Office 365 Suite- PowerPoint
   - **Challenges:** There are often numerous vulnerabilities to address, but management may not have the tools or knowledge to prioritize them effectively, leading to a fragmented approach.
-  - **Results:** Successfully created an effective PowerPoint presentation to management on behalf of the CEO to address organization security concerns.
+  - **Results:** Successfully created an effective PowerPoint presentation to management on behalf of the CEO to address organizational security concerns.
  
 - [<b>Penetration Test Report</b>](https://github.com/darknite222/Penetration-Test-Report)
 
