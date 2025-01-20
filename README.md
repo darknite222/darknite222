@@ -21,7 +21,7 @@
   - **Challenges:** dealing with false positives/negatives.
   - **Results:** Successfully scanned a target host for vulnerabilities.
     
-- <b>Scanning a target machine for open ports</b>
+- [<b>Scanning a target machine for open ports</b>](README.md)
 
   - **Objective:** Scan the host target device to search for open ports.
   - **Methodology:** I chose the application Virtual Box; which allowed me to download VM files.
