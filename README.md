@@ -51,13 +51,16 @@
   - **Methodology:**
   - **Tool:** Office 365-Word
   - **Challenges:** The time length of the download, caused the scan to stop.
-  - **Results:** Learned how to create an effective penetration test report. Earned a grade of 95 %
+  - **Results:** Learned how to create an effective penetration test report. 
 
-<h2> 📑Certificates/Certifications </h2>
+<h2> 📑Certifications / Certificates </h2>
 
-  -[CompTIA Security + Certified CE](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:93fb1ac1-2392-48f2-8177-52ed6c55770e)
+  -[CompTIA Security+](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:93fb1ac1-2392-48f2-8177-52ed6c55770e)
   
-  -[Cyber Threat Hunting Certificate](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1ac5de6f-0c26-4c61-a4f1-cbc05e1b5e54)
+  -[UMGC Cyber Threat Hunting Certificate](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1ac5de6f-0c26-4c61-a4f1-cbc05e1b5e54)
+
+
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
