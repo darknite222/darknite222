@@ -8,33 +8,34 @@
 - [<b> Virtual Lab Setup /Vulnerability Scanning </b>](https://github.com/darknite222/Home-Lab-Set-up-Vulnerability-Scanning.git)
 
   - **Objective:** Create a virtual lab for vulnerability scanning.
-  - **Methodology:** I chose the software Virtual Box, which allowed me to download my VM files
-  - **Tool used:** Virtual Box
+  - **Methodology:** My methodology for this project involved careful planning, tool selection, proper isolation, and consistent iteration.
+  - **Tool used:** Virtual Box; Nmap; OpenVAS; Zenmap; Nessus
   - **Challenges:** Experience download speed issues due to server overload.  
   - **Results:** Successfully utilized Virtual Box to set up a home lab for vulnerability scanning. 
     
 - [<b>Scanning a target machine</b>](https://github.com/darknite222/Scanning-a-Victim-Machine/blob/main/README.md)
   
   - **Objective:** Scan the target machine; to search for vulnerabilities.
-  - **Methodology:** I chose the application Virtual Box; which allowed me to download VM files.
-  - **Tool:** OpenVAS
+  - **Methodology:** When scanning a system for vulnerabilities, the method generally follows a structured approach that includes several stages, from initial reconnaissance to vulnerability 
+     identification and analysis. 
+  - **Tool:** Virtual Box; Nmap; OpenVAS; Zenmap; Nessus
   - **Challenges:** dealing with false positives/negatives.
-  - **Results:** Successfully scanned a target host for vulnerabilities.
+  - **Results:** Successfully scanned the target host for vulnerabilities.
     
 - [<b>Scanning a target machine for open ports</b>](https://github.com/darknite222/Scanning-a-target-machine-for-open-ports)
 
   - **Objective:** Scan the host target device to search for open ports.
   - **Methodology:** I chose the application Virtual Box; which allowed me to download VM files.
-  - **Tool:** Zenmap
+  - **Tool:** Virtual Box; Zenmap; Nmap; 
   - **Challenges:** The time length of the download, caused the scan to stop.
   - **Results:** I learned how to send packets to specific ports on a host, using the responses to find vulnerabilities.
     
 - <b> Exploitation of MySQL Server </b>
 
   - **Objective:** Scan the target machine; to search for vulnerabilities.
-  - **Methodology:** I chose the application Virtual Box; which allowed me to download VM files.
-  - **Tool:** Metasploit
-  - **Challenges:** The time length of the download, caused the scan to stop.
+  - **Methodology:**  Utilized OWASP's Top 10 list of web applications' most critical security risks to attack the MySQLserver.
+  - **Tool:** Virtual Box; Metasploit; Leafpad; OWASP 10
+  - **Challenges:** Technical obstacles; organizational and communication issues
   - **Results:** Successfully exploited the target MySQL server, extracting personal information using Leafpad. 
 
 - <b>Target System Scan Report</b>
@@ -48,9 +49,10 @@
 - <b> Penetration Test Report </b>
 
   - **Objective:** Create a comprehensive summary of Hotel Dorsey’s penetration result results.
-  - **Methodology:**
-  - **Tool:** Office 365-Word
-  - **Challenges:** The time length of the download, caused the scan to stop.
+  - **Methodology:** Preparation, defining the scope and rules of engagement, followed by information gathering to map out the target environment.
+  - **Tool:** Microsoft Office 365 suite
+  - **Challenges:** Performing penetration testing, while essential for identifying vulnerabilities and strengthening security, can come with a variety of challenges. These issues can be 
+                    technical, procedural, or even interpersonal.
   - **Results:** Learned how to create an effective penetration test report. 
 
 <h2> 📑Certifications / Certificates </h2>
