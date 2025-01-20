@@ -30,7 +30,7 @@
   - **Challenges:** The time length of the download, caused the scan to stop.
   - **Results:** I learned how to send packets to specific ports on a host, using the responses to find vulnerabilities.
     
-- <b> Exploitation of MySQL Server </b>
+- [<b> Exploitation of MySQL Server </b>](https://github.com/darknite222/Exploitation-of-MySQL-Server)
 
   - **Objective:** Scan the target machine; to search for vulnerabilities.
   - **Methodology:**  Utilized OWASP's Top 10 list of web applications' most critical security risks to attack the MySQLserver.
